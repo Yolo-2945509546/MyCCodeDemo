@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616580197 source:c:\codeblockcode\数据结构\寻找链表的倒数第二个节点并返回\main.c
+	<stdio.h>
+	<stdlib.h>
+
